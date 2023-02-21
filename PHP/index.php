@@ -124,7 +124,7 @@ class Mahasiswa extends SivitasAkademik {
 //membuat objek Mahasiswa
 $mhs1 = new Mahasiswa();
 
-//set nilai properti Mahasiswa
+//set nilai Mahasiswa
 $mhs1->setNIK("3603xxxxxxxxxxxx");
 $mhs1->setNama("Ayurika Sinambela");
 $mhs1->setJenisKelamin('P');
